@@ -1,0 +1,12 @@
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\controller\ArticleController.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\repository\ArticleRepository.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\repository\CommentRepository.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\dto\CommentCreateDTO.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\config\CorsConfig.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\dto\CommentDTO.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\service\ArticleService.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\BlogBackendApplication.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\dto\ArticleCreateUpdateDTO.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\dto\ArticleDTO.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\model\Article.java
+C:\Users\FRIDELIN\Desktop\blog-backend\src\main\java\com\example\blog\model\Comment.java
